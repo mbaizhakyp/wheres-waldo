@@ -1,0 +1,22 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: antiquewhite;
+  margin: 0;
+}
+.start-btn {
+  font-size: 48px;
+  padding: 0.5em 1em;
+  border-radius: 2em;
+  background-color: grey;
+}
+.start-btn:hover {
+    background-color: green;
+}
+a {
+  color: white;
+  text-decoration: none;
+}

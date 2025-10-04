@@ -1,0 +1,7 @@
+body{
+    margin: 0;
+    height: vh;
+    width: vw;
+    background-image: url('./images/waldo.jpg');
+    background-size: cover;
+}
